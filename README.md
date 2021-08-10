@@ -21,7 +21,7 @@ Acesse meu site e tenha senhas seguras: https://leonardo99i.github.io/Gerador_de
   <img align="center" alt="Leo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Leo-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Leo-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Leo-Gif" height="235" width="200" src="giphy.gif">
+  <img align="right" alt="Leo-Gif" height="210" width="200" src="giphy.gif">
 </div>
   
   ##
