@@ -32,7 +32,7 @@ Acesse meu site e tenha senhas seguras: https://leonardo99i.github.io/Gerador_de
 <a href = "https://pt.stackoverflow.com/users/145980/leo99i"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/leonardoleonardi?si=7e8547a4cac44c5e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/leonardo99i/leonardo99i/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leonardo99i/leonardo99i/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
