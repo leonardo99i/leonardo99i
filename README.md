@@ -22,15 +22,14 @@ Acesse meu site e tenha senhas seguras: https://leonardo99i.github.io/Gerador_de
   <img align="center" alt="Leo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Leo-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Leo-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Leo-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="right" alt="Leo-Gif" height="210" width="200" src="giphy.gif">
 </div>
   
   ##
   
 <div> 
-<a href="https://www.linkedin.com/in/leonardo-ribeiro-leonardi-4b66bb179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/any_tech.js/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardorleonardi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto: leonardoleonardi@live.com.com" target="_blank"><img src"https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=email&logoColor=white"</a> 
 <a href = "https://pt.stackoverflow.com/users/145980/leo99i"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/leonardoleonardi?si=7e8547a4cac44c5e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
