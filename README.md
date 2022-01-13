@@ -1,7 +1,5 @@
 Olá!! Eu sou o Leonardo, Seja Bem Vindo ao meu perfil!!!
 <br>
-Eu sou estagiário de Data Science no Banco Safra
-<br>
 Acesse meu site e tenha senhas seguras: https://leonardo99i.github.io/Gerador_de_Senha/
 
  <div>
