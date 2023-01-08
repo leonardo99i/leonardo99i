@@ -1,6 +1,6 @@
 Olá!! Eu sou o Leonardo, Seja Bem Vindo ao meu perfil!!!
 <br>
-Acesse meu site e tenha senhas seguras: https://leonardo99i.github.io/Gerador_de_Senha/
+https://linktr.ee/leonardo99i
 
  <div>
   <a href="https://github.com/leonardo99i">
